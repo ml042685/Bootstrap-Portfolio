@@ -35,6 +35,6 @@ the portfolio you made last unit with a mobile-responsive layout.
 
    * Responsive images
    
-   Cilick here for the link: 
+   Click here for the link: https://ml042685.github.io/Bootstrap-Portfolio/
 
 
