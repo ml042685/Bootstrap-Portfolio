@@ -37,6 +37,6 @@ the portfolio you made last unit with a mobile-responsive layout.
    
    Click here for the link: https://ml042685.github.io/Bootstrap-Portfolio/
    
-   Click here for the link:https://ml042685.github.io/Bootstrap-Portfolio/
+   Click here for the link: https://ml042685.github.io/Responsive-Portfolio/
 
 
