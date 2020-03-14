@@ -17,7 +17,9 @@ Create two new GitHub repositories and name them Bootstrap-Portfolio and Respons
 
 Clone these repositories to your computer.
 
-Assignment One Instructions (Bootstrap)
+
+
+### Assignment One Instructions (Bootstrap)
 Inside your Bootstrap-Portfolio repo, create index.html, portfolio.html and contact.html.
 
 Using Bootstrap, recreate your portfolio site with the following items:
@@ -37,7 +39,7 @@ Deploy your new Bootstrap-powered portfolio to GitHub Pages.
 
 
 
-Assignment Two Instructions - (No Bootstrap)
+### Assignment Two Instructions - (No Bootstrap)
 Copy the contents of Basic-Portfolio (your first homework solution) and paste the mentioned files into Responsive-Portfolio.
 
 Note: Be sure not to include any dot files (e.g. .git, .gitignore) from the Basic-Portfolio repo.
